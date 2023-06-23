@@ -112,7 +112,7 @@ const Wrapper = styled.article`
     background: transparent;
     border: transparent;
     letter-spacing: var(--spacing);
-    background: var(--clr-red-dark);
+    background: black;
     width: 1.5rem;
     height: 1.5rem;
     display: flex;
@@ -121,6 +121,10 @@ const Wrapper = styled.article`
     border-radius: var(--radius);
     font-size: 0.75rem;
     cursor: pointer;
+  }
+  .remove-btn:hover{
+    background : red;
+    border: 2px solid black
   }
   @media (min-width: 776px) {
     .subtotal {

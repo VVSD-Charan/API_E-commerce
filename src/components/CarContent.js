@@ -43,15 +43,16 @@ const Wrapper = styled.section`
     border-color: transparent;
     text-transform: capitalize;
     padding: 0.25rem 0.5rem;
-    background: var(--clr-primary-5);
+    background: #22A699;
     color: var(--clr-white);
     border-radius: var(--radius);
     letter-spacing: var(--spacing);
     font-weight: 400;
     cursor: pointer;
+    padding: 10px;
   }
   .clear-btn {
-    background: var(--clr-black);
+    background: #B31312;
   }
 `
 export default CartContent
