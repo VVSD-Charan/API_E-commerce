@@ -31,7 +31,7 @@ const FeaturedProducts = () => {
           return <Product key={product.id} {...product} />
         })}
       </div>
-      <Link to="/products" className="btn">
+      <Link to="/products" className="btn" style={{backgroundColor : '#A9907E',padding:'10px'}}>
         all products
       </Link>
     </Wrapper>

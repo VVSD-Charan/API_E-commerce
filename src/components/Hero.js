@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 import heroBcg2 from '../assets/making.jfif'
-import heroBcg from '../assets/sofa.jfif'
+import heroBcg from '../assets/sofaa.jpg'
 
 const Hero = () => {
   return (
@@ -18,7 +18,7 @@ const Hero = () => {
           your style and preferences. Find comfort, inspiration, and convenience
           all in one place.
         </p>
-        <Link to="/products" className="btn hero-btn">
+        <Link to="/products" className="btn hero-btn" style={{backgroundColor:'#A9907E'}}>
           shop now
         </Link>
       </article>
@@ -44,6 +44,7 @@ const Wrapper = styled.section`
     margin-bottom: 2rem;
     color: var(--clr-grey-5);
     font-size: 1rem;
+    font-family:cursive;
   }
   @media (min-width: 992px) {
     height: calc(100vh - 5rem);
