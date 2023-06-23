@@ -64,6 +64,8 @@ const Wrapper = styled.section`
     border-radius: var(--radius);
     p {
       color: var(--clr-primary-2);
+      font-family : sans-serif;
+      padding-top:15px;
     }
   }
 

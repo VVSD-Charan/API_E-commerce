@@ -5,11 +5,11 @@ const Contact = () => {
   return (
     <Wrapper>
       <div className="section-center">
-        <h3>join our newsletter and get 20% off</h3>
+        <h3>Join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
             Subscribe to our newsletter and enjoy a 20% discount on your next
-            purchase. Stay updated with exclusive offers, trends, and more!
+            purchase. Stay updated with us for exclusive offers, trends, and more!
           </p>
           <form
             className="contact-form"
@@ -40,6 +40,7 @@ const Wrapper = styled.section`
     line-height: 2;
     max-width: 45em;
     color: var(--clr-grey-5);
+    font-size : 20px;
   }
   .contact-form {
     width: 90vw;
@@ -69,7 +70,7 @@ const Wrapper = styled.section`
     text-transform: capitalize;
   }
   .submit-btn {
-    background: var(--clr-primary-5);
+    background: #A9907E;
     text-transform: capitalize;
     letter-spacing: var(--spacing);
     cursor: pointer;

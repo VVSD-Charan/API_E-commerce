@@ -22,20 +22,20 @@ export const services = [
   {
     id: 1,
     icon: <GiCompass />,
-    title: 'mission',
-    text: 'Bringing comfort and relaxation to your fingertips, Comfy Sloth offers a curated collection of cozy products for a blissful lifestyle.',
+    title: 'Our Aim',
+    text: 'Bringing comfort and relaxation to your fingertips, we offer a curated collection of cozy products for a blissful lifestyle.',
   },
   {
     id: 2,
     icon: <GiDiamondHard />,
-    title: 'vision',
-    text: 'Our vision at Comfy Sloth is to become the go-to destination for all things cozy, providing unparalleled comfort and relaxation for our customers.',
+    title: 'Our Vision',
+    text: 'Our vision is to become the go-to destination for all things cozy, providing unparalleled comfort and relaxation for our customers.',
   },
   {
     id: 3,
     icon: <GiStabbedNote />,
-    title: 'history',
-    text: 'Comfy Sloth was born out of a passion for comfort and relaxation. Since its inception, we have been dedicated to bringing cozy products to customers worldwide.',
+    title: 'Our History',
+    text: 'We have around 5k users and we have delivered around 9k products in the span of 1 year.',
   },
 ]
 
