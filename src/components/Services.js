@@ -41,7 +41,7 @@ const Wrapper = styled.section`
   }
   padding: 5rem 0;
 
-  background: var(--clr-primary-10);
+  background-color: #AEE2FF;
 
   .header h3 {
     margin-bottom: 2rem;
@@ -50,6 +50,7 @@ const Wrapper = styled.section`
     margin-bottom: 0;
     line-height: 1.8;
     color: var(--clr-primary-3);
+    font-size: 21px;
   }
   .services-center {
     margin-top: 4rem;
@@ -64,6 +65,10 @@ const Wrapper = styled.section`
     p {
       color: var(--clr-primary-2);
     }
+  }
+
+  .service:hover{
+    border: 4px solid blue;
   }
   span {
     width: 4rem;
