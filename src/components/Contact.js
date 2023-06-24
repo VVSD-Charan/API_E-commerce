@@ -70,12 +70,12 @@ const Wrapper = styled.section`
     text-transform: capitalize;
   }
   .submit-btn {
-    background: #A9907E;
+    background: #B70404;
     text-transform: capitalize;
     letter-spacing: var(--spacing);
     cursor: pointer;
     transition: var(--transition);
-    color: var(--clr-black);
+    color: white;
   }
   .submit-btn:hover {
     color: var(--clr-white);

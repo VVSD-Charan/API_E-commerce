@@ -18,7 +18,7 @@ const Hero = () => {
           your style and preferences. Find comfort, inspiration, and convenience
           all in one place.
         </p>
-        <Link to="/products" className="btn hero-btn" style={{backgroundColor:'#A9907E'}}>
+        <Link to="/products" className="btn hero-btn" style={{backgroundColor:'#1F6E8C'}}>
           shop now
         </Link>
       </article>
