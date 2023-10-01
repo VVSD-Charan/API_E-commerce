@@ -1,7 +1,11 @@
 ## E-commerce using API
 
 ### Description :
-This project leverages the power of React's useReducer hook to efficiently manage product filters, button toggles, and cart items. The ComfySloth API serves as the reliable source for fetching product-related data. Additionally, Auth0 is seamlessly integrated to provide robust user authentication capabilities. Formspree handles the smooth transmission of form data. The implementation involves JavaScript event listeners and functions, such as sort, to effectively handle filters and toggle view buttons. Users are presented with two engaging viewing options: grid view and list view. The intuitive user interface allows for seamless filtering of products based on price range, colors, brand names, and shipping fees. Furthermore, a strong emphasis has been placed on ensuring the responsiveness and overall user-friendliness of the interface.
+Decor Mart is a website where you can shop for home decor items. It uses a special tool called React's useReducer to help you find products easily by using filters and buttons. It gets information about the products from a reliable source called the ComfySloth API. You can also create an account and log in because it has a strong security feature called Auth0.
+
+When you want to ask questions or share your thoughts, there's a way to do that using Formspree. The website is made with a type of computer code called JavaScript, which helps it do things like sorting products. You can see the products in two different ways: as a grid or as a list.
+
+Decor Mart is designed to be easy to use, so you can quickly find products based on price, colors, brands, and shipping costs. Plus, it works well on different devices like phones and computers, making it user-friendly.
 
 
 ### Some Glimpses of website
