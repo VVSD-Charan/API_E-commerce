@@ -1,4 +1,5 @@
 ## E-commerce using API
+### Deployed Link : https://decor-mart.netlify.app/
 
 ### Description :
 Decor Mart is a website where you can shop for home decor items. It uses a special tool called React's useReducer to help you find products easily by using filters and buttons. It gets information about the products from a reliable source called the ComfySloth API. You can also create an account and log in because it has a strong security feature called Auth0.
